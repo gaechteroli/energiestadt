@@ -7,6 +7,6 @@ Folgende Punkte regeln die Rahmenbedinungen in der Entwicklung:
 Dateinamen & Beschriftung
 -------------------------
 - Dateien werden klein geschrieben
-- Mit unterstrich
+- Mit Unterstrich
 - Objektgruppe voran falls vorhanden z.B: kraftwerk_wind.as, welt_basis.as
 
